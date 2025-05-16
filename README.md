@@ -1,0 +1,2 @@
+# chatgptx.ru
+ChatGpt
